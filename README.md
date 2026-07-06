@@ -201,30 +201,6 @@ The project uses:
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here:
-
-```
-documentation/screenshots/
-```
-
-Suggested screenshots:
-
-- Login
-- Register
-- Home
-- Product List
-- Product Details
-- Shopping Cart
-- Wishlist
-- Checkout
-- Orders
-- Order Tracking
-- Admin Dashboard
-
----
-
 # 🚀 Future Enhancements
 
 - Online Payment Gateway
@@ -242,7 +218,7 @@ Suggested screenshots:
 **Arjun Patidar**
 
 - GitHub: https://github.com/ArjunPatidar339
-- LinkedIn: *(Add your LinkedIn profile here)*
+  
 
 ---
 
